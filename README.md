@@ -9,7 +9,7 @@
 
 ### Overview Page
 
-<img src="https://github.com/omkarshinde25/Spotify-Music-Data-Analysis/blob/main/Dashboard%20PNG/Overview%20Page.png" width="800"> <br>
+<img src="https://github.com/koge-prabhu/Spotify-Listening-Analysis-Dashboard/blob/main/Home%20Page.png" width="800"> <br>
 
 ---
 
@@ -52,23 +52,22 @@ This Power BI project analyzes **Spotify Top 50 Global data (27,800 rows)** cont
 Dashboard Screenshots (for visual preview):
 
 ### Home Page
-<img src="https://github.com/omkarshinde25/Spotify-Music-Data-Analysis/blob/main/Dashboard%20PNG/Home%20Page.png" width="800"> <br>
+<img src="https://github.com/koge-prabhu/Spotify-Listening-Analysis-Dashboard/blob/main/Home%20Page.png" width="800"> <br>
 
 ### Overview Page
-<img src="https://github.com/omkarshinde25/Spotify-Music-Data-Analysis/blob/main/Dashboard%20PNG/Overview%20Page.png" width="800"> <br>
+<img src="https://github.com/koge-prabhu/Spotify-Listening-Analysis-Dashboard/blob/main/Overview%20Page.png" width="800"> <br>
 
 ### Artist Analysis Page  
-<img src="https://github.com/omkarshinde25/Spotify-Music-Data-Analysis/blob/main/Dashboard%20PNG/Artists%20Page.png" width="800"> <br>
+<img src="https://github.com/koge-prabhu/Spotify-Listening-Analysis-Dashboard/blob/main/Artists%20Page.png" width="800"> <br>
 
-### Songs Insights Page  
-<img src="https://github.com/omkarshinde25/Spotify-Music-Data-Analysis/blob/main/Dashboard%20PNG/Songs%20Page.png" width="800"> <br>
+<br>
 
 
 ---
 
 ## 3. Data Modeling
 
-<img src="https://github.com/omkarshinde25/Spotify-Music-Data-Analysis/blob/main/Dashboard%20PNG/Schema.png" width="800"> <br>
+<img src="https://github.com/koge-prabhu/Spotify-Listening-Analysis-Dashboard/blob/main/Schema.png" width="800"> <br>
 
 ### Structure
 
